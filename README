@@ -1,0 +1,11 @@
+Tool to count tempi in Diplomacy.
+
+Tempo is an important concept in chess, and we borrow it for
+Diplomacy: One tempo is defined to be the movement of one piece from
+one province to another.
+
+Tempi measure the development of powers on the board more clearly than
+supply centre count alone.  See the list of articles at
+http://diplom.org/Zine/list.html#Caissa and especially
+http://diplom.org/Zine/F1999R/Windsor/dipmap.html for details.  Or
+feel free to send me an email.
